@@ -17,7 +17,4 @@ public class RecipeUI {
         System.out.println("\n>> Sorry, there is no recipe with keyword entered.");
     }
     
-    public static void recipeNotFound() {
-        System.out.println("\n>> Sorry, there is no recipe with recipe ID entered.");
-    }
 }
